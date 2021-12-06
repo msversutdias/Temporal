@@ -8,3 +8,6 @@ use_git()
 
 #passo 3 - inserindo arquivos neste projeto
 #colocar...
+
+#passo 4 - criando/inserindo repositorio Github
+use_github()
